@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Élan — Luxury Hair Studio & Stylist Suite",
+  "description": "Boutique hair atelier booking, interactive style lookbook, AI hair consultation, and stylist formula management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
